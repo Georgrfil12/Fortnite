@@ -1,0 +1,101 @@
+<html>
+<style>
+.heading{
+color: blue;
+display: flex;
+text-align: center;a
+font-size: 50px;
+}
+
+.general{
+display: article;
+width: 500px;
+}
+
+img{
+width: 500px
+}
+
+h2{
+text-align: center;
+color: red;
+}
+
+
+.controls{
+display: article;
+width: 500px ;
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+footer{
+position: absolute;
+top: 1000px
+}
+
+.updates{
+width: 500px ;
+
+}
+
+.all{
+display: flex
+}
+
+</style>
+
+
+
+
+
+<head>
+<title> Fortnite </title>
+<meta name="google-site-verification" content="ywXbyE1VwMPLBaguE8iefoVAzcaY9mGgkUZH4UwKuVo" />
+<img src="https://cdn3.emoji.gg/emojis/4955-fortnite.png">
+<h1> FORTNITE </h1>
+
+</div>
+</head>
+
+<body>
+
+<div class="all">
+<div class="general">
+<h2> General </h2>
+<p> Fortnite is an online video game and game platform developed by Epic Games and released in 2017. It is available in a lot of dieferent distinct game mode versions that otherwise share the same general gameplay and game engine: Fortnite Battle Royale, a battle royale game in which up to 100 players fight to be the last person standing; Fortnite: Save the World, a cooperative hybrid tower defense-shooter and survival game in which up to four players fight off zombie-like creatures and defend objects (need's purchase); Fortnite Creative, in which players are given complete freedom to create worlds and battle arenas; Lego Fortnite, an open world Minecraft like game; Rocket Racing, a car racing game; Fortnite Festival, a music game when you chose 3 songs and try to click the right time to get high score; Fortnite OG where you can play old versions of the game; Fortnite Ballistic, a first person game mode where 10 players are being spliting in atackers and defenders. Atackers must plant a device at some locations, while sefenders must stop them; and Minigames, created by players where controls are the same and can be realy awesome!</p>
+</div>
+
+<div class="controls">
+<h2> Contols </h2>
+<p> Controls on Fortnite are the same on all game modes. They can be changed any time based to your preferences. However the default mapping is: move with WASD, jump with space, camera rotation with mouse, fire with right click - aim with left, crouch with ctrl, run with shift, change weapons with 1-2-3-4-5, interact with E, chose pickaxe with F, reload with R, open map with M, pin a location with mouse's washer and build with ZXCV. </p>
+
+</div>
+
+
+<div class="updates">
+<h2> Updates </h2>
+<p> The game is Online so it updates very often. Every three months it changes a season, which is getting you back to level 1, adds new map and new weapons. Except by the seasons, it changes chaptes every year. That gets your rank back to unranked and also doing what season's change does </p> 
+
+
+</div>
+</div>
+</body>
+
+<footer>
+<a href= "https://www.fortnite.com/?lang=en-US">  </a> Fortnite
+<a href= "https://store.epicgames.com/en-US/download">  </a> Download here
+<a href="https://mail.google.com/mail/u/0/#inbox"> </a> If you have any questions contact me on my gmail "gorge.filippog@gmail.com"
+<iframe width="200" height="150" src="https://www.youtube.com/embed/Psp0UL3PZcw" title="NEW Complete BEGINNER&#39;S Guide to Fortnite Battle Royale" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h4> HAVE FUN!!! </h4>
+
+</footer>
+
+</html>
